@@ -10,10 +10,24 @@ Version 2.0.0 (or later) of the Kafka connector is required for use with Snowpip
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/efa8c0cc-41b9-4c85-8e4f-b99c49a66613">
 
+<img width="1077" alt="image" src="https://github.com/user-attachments/assets/6fb933bd-0e96-48dc-ae3e-25151456dec8">
+
 
 <img width="779" alt="image" src="https://github.com/user-attachments/assets/64539d72-09d6-429b-b1b9-cf899e76fd0b">
 
 <img width="1400" alt="image" src="https://github.com/user-attachments/assets/20ce17d0-2767-4f8a-8592-04e7b13dba69">
+
+
+
+# OAUTH2 in Snowflake
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/2b3778b7-4b3e-487a-8c94-b5d9abf1ea19">
+<img width="1268" alt="image" src="https://github.com/user-attachments/assets/eda35714-bb92-416d-bd37-88b73eb6a87b">
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/2678c4cf-cf8b-4029-9d69-1abe5e6df75d">
+
+# Snowpipe streaming vs Snowpipe 
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/f5f233da-bab6-401c-8c6b-261426ab7e88">
+
+
 
 # Storage monitoring 
 ![image](https://github.com/xiongye77/snowflake/assets/36766101/3d3ffafe-2862-4cc3-80bf-1690fa2c8e68)
