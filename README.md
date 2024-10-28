@@ -4,6 +4,16 @@
 <img width="624" alt="image" src="https://github.com/user-attachments/assets/dea8d670-2820-4892-8fcb-426ab8003231">
 <img width="703" alt="image" src="https://github.com/user-attachments/assets/349d2922-c9a9-40f7-adee-eb2fb67ca770">
 
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/0d0c90ad-a214-4a47-b84f-0e99130e6027">
+
+Version 2.0.0 (or later) of the Kafka connector is required for use with Snowpipe Streaming. The Kafka connector with Snowpipe Streaming includes the Snowflake Ingest SDK and supports streaming rows from Apache Kafka topics directly into target tables.
+
+<img width="831" alt="image" src="https://github.com/user-attachments/assets/efa8c0cc-41b9-4c85-8e4f-b99c49a66613">
+
+
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/64539d72-09d6-429b-b1b9-cf899e76fd0b">
+
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/20ce17d0-2767-4f8a-8592-04e7b13dba69">
 
 # Storage monitoring 
 ![image](https://github.com/xiongye77/snowflake/assets/36766101/3d3ffafe-2862-4cc3-80bf-1690fa2c8e68)
