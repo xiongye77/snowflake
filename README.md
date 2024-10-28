@@ -1,5 +1,10 @@
 # snowflake
 
+
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/dea8d670-2820-4892-8fcb-426ab8003231">
+<img width="703" alt="image" src="https://github.com/user-attachments/assets/349d2922-c9a9-40f7-adee-eb2fb67ca770">
+
+
 # Storage monitoring 
 ![image](https://github.com/xiongye77/snowflake/assets/36766101/3d3ffafe-2862-4cc3-80bf-1690fa2c8e68)
 
