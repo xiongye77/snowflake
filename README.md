@@ -38,6 +38,8 @@ DESCRIBE TABLE KPI_MARKETING_SPEND_REPORT
 
 SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'KPI_MARKETING_SPEND_REPORT'
 
+<img width="1055" alt="image" src="https://github.com/user-attachments/assets/dbe3573a-878a-4cb9-ae19-80c09a912010">
+
 
 # Data loading
 ![image](https://github.com/xiongye77/snowflake/assets/36766101/da1abf94-2477-4789-988c-11bd97083240)
@@ -163,3 +165,28 @@ Snowpark is a new developer experience for Snowflake that allows developers to w
 
 # Snowflake account usage 
 <img width="1428" alt="image" src="https://github.com/user-attachments/assets/78b5f365-29f5-4fa6-8d49-a51ce48cac90">
+
+
+# Snowflake database parameter 
+show parameters in database database_name
+<img width="1051" alt="image" src="https://github.com/user-attachments/assets/ff01d394-54f7-426a-a3da-2857150fb118">
+
+show tables in schema scheme-name 
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/bc3e93aa-0e63-462a-80f7-585369c560fe">
+SHOW TABLES IN DATABASE database-name
+
+
+
+# Snowflake Failsafe
+for permanent table only  (permanent table/transient table/temporary table )
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/3e07708e-1320-4310-a39e-9a8ed1c6a7d0">
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/cb48697c-e194-4f51-843a-b19b7912920d">
+
+
+# Snowflake table change tracking for CDC
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/c4937fd0-7682-4b97-9989-9ef96f812f95">
+
+
+# Snowflake table retention period and time travel
+Snowflake, the table retention period generally refers to the Time Travel period. This period allows you to access historical data, enabling you to recover from accidental data modifications or deletions by "traveling back in time" to a previous state of the table.
+<img width="1059" alt="image" src="https://github.com/user-attachments/assets/37176263-622f-4dcb-b900-ea522b0c25a9">
