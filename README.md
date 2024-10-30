@@ -1,4 +1,11 @@
 # snowflake
+<img width="1133" alt="image" src="https://github.com/user-attachments/assets/7f50e754-77fe-42b6-9c91-1699aa5fb693">
+<img width="1119" alt="image" src="https://github.com/user-attachments/assets/66be9eab-6ab7-496c-9752-4587ccf11948">
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/0794c100-2102-48ba-a70d-1cadc81baf00">
+<img width="1104" alt="image" src="https://github.com/user-attachments/assets/75b5c3de-deb4-46a1-97b2-062f62eac184">
+
+<img width="1044" alt="image" src="https://github.com/user-attachments/assets/360f099c-9f39-46be-a8ef-0814180cc487">
+<img width="988" alt="image" src="https://github.com/user-attachments/assets/404bb90e-6fe1-4198-881c-822e4c5e5d60">
 
 
 <img width="624" alt="image" src="https://github.com/user-attachments/assets/dea8d670-2820-4892-8fcb-426ab8003231">
@@ -195,3 +202,6 @@ Snowflake, the table retention period generally refers to the Time Travel period
 
 # Snowflake cost of 2x/3X/4X/5X/6X large 
 <img width="1207" alt="image" src="https://github.com/user-attachments/assets/60f03915-74c9-40b9-9652-63d312e3fab4">
+
+# Scale up and Scale out 
+<img width="1241" alt="image" src="https://github.com/user-attachments/assets/56f6c37e-e3d1-432c-a391-30553de815a8">
