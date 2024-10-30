@@ -216,3 +216,7 @@ InferSchema automates the schema inference process, intelligently deducing the s
 
 <img width="808" alt="image" src="https://github.com/user-attachments/assets/494b89f8-df4f-4d65-b692-fb00cd37d790">
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/4eb50129-3e3b-4725-a03c-72515b23ac4e">
+
+
+# Enable ENABLE_SCHEMA_EVOLUTION
+
