@@ -155,6 +155,8 @@ Snowpark is a new developer experience for Snowflake that allows developers to w
 
 # Resource optimization
 <img width="1398" alt="image" src="https://github.com/user-attachments/assets/58ec1381-e690-4134-9161-7b8b38594a43">
+
+
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/c9ec777a-edf8-43e3-95d3-bbff987232d8">
 
 # Virtual Warehouse
@@ -205,3 +207,12 @@ Snowflake, the table retention period generally refers to the Time Travel period
 
 # Scale up and Scale out 
 <img width="1241" alt="image" src="https://github.com/user-attachments/assets/56f6c37e-e3d1-432c-a391-30553de815a8">
+
+
+
+
+# Load CSV data into Snowflake Tables using InferSchema
+InferSchema automates the schema inference process, intelligently deducing the structure of the CSV, Parquet and other file types. With this technique, analysts can swiftly create tables in Snowflake based on the inferred schema, eliminating the need for manual column definition. Once the tables are in place, executing the COPY INTO command seamlessly loads the data, expediting the entire process.
+
+<img width="808" alt="image" src="https://github.com/user-attachments/assets/494b89f8-df4f-4d65-b692-fb00cd37d790">
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/4eb50129-3e3b-4725-a03c-72515b23ac4e">
