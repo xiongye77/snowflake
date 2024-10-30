@@ -190,3 +190,8 @@ for permanent table only  (permanent table/transient table/temporary table )
 # Snowflake table retention period and time travel
 Snowflake, the table retention period generally refers to the Time Travel period. This period allows you to access historical data, enabling you to recover from accidental data modifications or deletions by "traveling back in time" to a previous state of the table.
 <img width="1059" alt="image" src="https://github.com/user-attachments/assets/37176263-622f-4dcb-b900-ea522b0c25a9">
+
+
+
+# Snowflake cost of 2x/3X/4X/5X/6X large 
+<img width="1207" alt="image" src="https://github.com/user-attachments/assets/60f03915-74c9-40b9-9652-63d312e3fab4">
