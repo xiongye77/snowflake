@@ -209,6 +209,8 @@ Snowflake, the table retention period generally refers to the Time Travel period
 <img width="1241" alt="image" src="https://github.com/user-attachments/assets/56f6c37e-e3d1-432c-a391-30553de815a8">
 
 
+# Fileformat in Snowflake for ingestion
+<img width="1065" alt="image" src="https://github.com/user-attachments/assets/dfd5785a-783c-41d3-aecd-3eb145f388bd">
 
 
 # Load CSV data into Snowflake Tables using InferSchema
@@ -219,4 +221,9 @@ InferSchema automates the schema inference process, intelligently deducing the s
 
 
 # Enable ENABLE_SCHEMA_EVOLUTION
+
+
+
+# Change data capture 
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/b75bef6a-34b3-4ffa-9288-9e0fe0fab980">
 
