@@ -228,3 +228,7 @@ InferSchema automates the schema inference process, intelligently deducing the s
 # Change data capture 
 <img width="1206" alt="image" src="https://github.com/user-attachments/assets/b75bef6a-34b3-4ffa-9288-9e0fe0fab980">
 
+# Snowflake database share across account 
+<img width="1683" alt="image" src="https://github.com/user-attachments/assets/a4cbcfef-e13a-4355-8290-bcafb28f40c4">
+<img width="1555" alt="image" src="https://github.com/user-attachments/assets/157815e6-d7c3-4071-a8b9-37a01ada6e74">
+
