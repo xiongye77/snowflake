@@ -2,6 +2,16 @@ In Snowflake, the CHANGE_TRACKING table property controls whether a table suppor
     ALTER TABLE table_name SET CHANGE_TRACKING = TRUE;
 
 
+creating a stream on a table in Snowflake does not automatically enable change tracking on that table. You need to explicitly enable change tracking if you want to create a standard stream that tracks inserts, updates, and deletes.
+
+Here's how it works:
+
+Append-Only Streams: By default, if you create a stream on a table without enabling CHANGE_TRACKING, Snowflake creates an append-only stream. This type of stream only tracks inserted rows and does not capture updates or deletes.
+
+Standard Streams: To enable full change tracking (including updates and deletes) and create a standard stream, you need to set CHANGE_TRACKING = TRUE on the table before creating the stream.
+
+    
+
 Key Differences Between CHANGE_TRACKING = TRUE and FALSE
 Ability to Create Standard Streams:
 
