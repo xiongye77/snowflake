@@ -224,6 +224,7 @@ InferSchema automates the schema inference process, intelligently deducing the s
 
 
 
+
 # Change data capture 
 <img width="1206" alt="image" src="https://github.com/user-attachments/assets/b75bef6a-34b3-4ffa-9288-9e0fe0fab980">
 
