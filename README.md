@@ -1,4 +1,41 @@
 # snowflake
+
+Query history on specific table 
+SELECT 
+    query_id,
+    user_name,
+    database_name,
+    schema_name,
+    query_text,
+    start_time,
+    end_time
+FROM 
+    SNOWFLAKE.ACCOUNT_USAGE.QUERY_HISTORY
+WHERE 
+    query_text ILIKE '%digital_market_sandbox.application.sfmc_bc_organisation%'
+    AND start_time > DATEADD(DAY, -30, CURRENT_TIMESTAMP) -- Last 30 days
+ORDER BY 
+    start_time DESC;
+
+
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/17c582b3-79d3-430a-8ad6-d261bfdf20ea">
+
+
+SELECT
+    ah.QUERY_ID,
+    ah.query_start_time,
+    ah.USER_NAME,
+    base_object.value:"objectName"::string AS OBJECT_NAME
+FROM
+    SNOWFLAKE.ACCOUNT_USAGE.ACCESS_HISTORY ah,
+    LATERAL FLATTEN(input => ah.BASE_OBJECTS_ACCESSED) base_object
+WHERE
+   query_start_time > DATEADD(DAY, -1, CURRENT_TIMESTAMP)  and 
+    base_object.value is not null  and ah.user_name ='YE.XIONG@XERO.COM' and object_name like 'DIGITAL_MARKET_SANDBOX.APPLICATION.INTERCOM_ORG' order by query_start_time desc
+
+    
+<img width="1635" alt="image" src="https://github.com/user-attachments/assets/05e8a073-8c0a-4c94-9a09-f5d70616ede7">
+
 <img width="1133" alt="image" src="https://github.com/user-attachments/assets/7f50e754-77fe-42b6-9c91-1699aa5fb693">
 <img width="1119" alt="image" src="https://github.com/user-attachments/assets/66be9eab-6ab7-496c-9752-4587ccf11948">
 <img width="1072" alt="image" src="https://github.com/user-attachments/assets/0794c100-2102-48ba-a70d-1cadc81baf00">
